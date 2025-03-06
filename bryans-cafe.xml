@@ -5,7 +5,7 @@
 <!DOCTYPE business SYSTEM "bryans-cafe.dtd">
 
 <business>
-    <name>Bryan's Café</name>
+    <name>Bryan's Café</name>‹
     <gif>food.gif</gif>
     <sound>food_sound.mp3</sound>
     <items>
