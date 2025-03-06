@@ -1,0 +1,33 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <?xml-stylesheet type="text/css" href="style.css"?>
+
+
+    <!DOCTYPE business SYSTEM "lucas-loavers.dtd">
+
+    <business>
+        <name>Luca's Loavers</name>
+        <gif>bread.gif</gif>
+        <sound>bread_sound.mp3</sound>
+        <items>
+            <item>
+                <name>Sourdough White</name>
+                <price>$7.00</price>
+                <description>Our standard sourdough</description>
+            </item>
+            <item>
+                <name>Sourdough Rye</name>
+                <price>$8.00</price>
+                <description>Sourdough created with 50% rye flour</description>
+            </item>
+            <item>
+                <name>Sourdough Spelt</name>
+                <price>$9.00</price>
+                <description>Sourdough created with 100% spelt flour.</description>
+            </item>
+            <item>
+                <name>Sourdough Seeded</name>
+                <price>$9.50</price>
+                <description>Sourdough including a mixture of yummy seeds.</description>
+            </item>
+        </items>
+    </business>
