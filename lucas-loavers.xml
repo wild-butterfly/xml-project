@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
-
-
-<!DOCTYPE business SYSTEM "lucas-loavers.dtd">
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
 
 <business>
-    <name>Luca's Loavers</name>
-    <gif>bread.gif</gif>
-    <sound>bread_sound.mp3</sound>
+    <name>Lucas Loavers</name>
+    <image>assets/lucas.gif</image>
+
     <items>
         <item>
-            <name>Sourdough White</name>
+            <name>Italian Herb Loaf</name>
+            <price>$6.00</price>
+            <description>Fresh-baked loaf seasoned with rosemary, oregano, and thyme.</description>
+        </item>
+
+        <item>
+            <name>Sourdough Loaf</name>
             <price>$7.00</price>
-            <description>Our standard sourdough</description>
+            <description>Classic artisanal sourdough with crispy crust.</description>
         </item>
+
         <item>
-            <name>Sourdough Rye</name>
-            <price>$8.00</price>
-            <description>Sourdough created with 50% rye flour</description>
-        </item>
-        <item>
-            <name>Sourdough Spelt</name>
-            <price>$9.00</price>
-            <description>Sourdough created with 100% spelt flour.</description>
-        </item>
-        <item>
-            <name>Sourdough Seeded</name>
-            <price>$9.50</price>
-            <description>Sourdough including a mixture of yummy seeds.</description>
+            <name>Cinnamon Scroll</name>
+            <price>$5.00</price>
+            <description>Sweet cinnamon swirl topped with vanilla icing.</description>
         </item>
     </items>
 </business>

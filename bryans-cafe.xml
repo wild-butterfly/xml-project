@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
-
-
-<!DOCTYPE business SYSTEM "bryans-cafe.dtd">
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
 
 <business>
-    <name>Bryan's Café</name>‹
-    <gif>food.gif</gif>
-    <sound>food_sound.mp3</sound>
+    <name>Bryan's Café</name>
+    <image>assets/bryans.gif</image>
+
     <items>
         <item>
             <name>Beetroot and Feta Salad</name>
             <price>$15.00</price>
-            <description>Suitable for vegetarians, made with fresh beetroot</description>
+            <description>Suitable for vegetarians, made with fresh beetroot.</description>
         </item>
+
         <item>
             <name>Sourdough Rye Sandwich</name>
             <price>$18.00</price>
-            <description>Cheese and salad sandwich made with organic, sourdough rye bread</description>
+            <description>Cheese and salad sandwich made with organic sourdough rye bread.</description>
         </item>
+
         <item>
             <name>Spinach Pie and Salad</name>
             <price>$20.00</price>
-            <description>Tasty pie with salad</description>
+            <description>Tasty pie served with a fresh salad.</description>
         </item>
+
         <item>
             <name>Feta Pancakes with Salad</name>
             <price>$19.50</price>
-            <description>Tasty pancake filled with feta and salad.</description>
+            <description>Pancakes filled with feta cheese and served with salad.</description>
         </item>
     </items>
 </business>
